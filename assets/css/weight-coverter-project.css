@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #C5CAE9;
+    font-family: 'Inter', sans-serif;
+    height: 80vh;
+    background-image: url("../image/picture/physiotherapy-595529_1280.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
+
+.container-weight{
+    background-color: rgba(48, 63, 159, 0.829);
+    width: 45%;
+    margin: 10% auto;
+    color: #fff;
+    border-radius: 15px;
+    padding:60px 40px;
+}
+
+.container-weight_title{
+    margin-bottom: 17px;
+}
+
+.container-weight_text{
+    margin-bottom: 17px;
+}
+
+.container-weight_inputbox{
+    margin-bottom: 17px;
+}
